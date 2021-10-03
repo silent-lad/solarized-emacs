@@ -3,8 +3,6 @@
 [![MELPA Stable](http://stable.melpa.org/packages/solarized-theme-badge.svg)](http://stable.melpa.org/#/solarized-theme)
 [![Join the chat at https://gitter.im/bbatsov/solarized-emacs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bbatsov/solarized-emacs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-# Solarized for Emacs
-
 Solarized for Emacs is an Emacs 24bit theme making use of of the
 [Solarized palette](http://ethanschoonover.com/solarized), developed by Ethan Schoonover.
 
